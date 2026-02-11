@@ -9,7 +9,8 @@ Welcome to my digital space! I am a creative soul currently diving deep into the
 - 🎨 **Front-End Lover:** I have a huge crush on clean UI/UX and responsive designs.
 - ⚙️ **Back-End Explorer:** Navigating the magic of Java and the logic of Databases.
 - 🌱 **Always Growing:** Learning something new every single day because curiosity is my superpower! 🚀
-<h3 align="left">Connect with me:</h3>
+- 
+📩 **Let's connect!** [LinkedIn Profile](https://www.linkedin.com/in/alba-ruiz-de-la-vega-765b21384)
 <p align="left">
 </p>
 
