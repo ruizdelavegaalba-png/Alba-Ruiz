@@ -1,9 +1,14 @@
-# Hi there, I'm Alba! 👋
+# Hi! I'm Alba, and I'm in love with code! ✨👩‍💻
 
-### 👩‍💻 Full-Stack Web Development Student (DAW)
-Based in **Seville, Spain** 💃
+### ✨ Passionate Web Development Student (DAW) from Seville, Spain 💃☀️
 
-I am a passionate developer currently pursuing my degree in **Web Application Development (DAW)**. I love building clean, user-friendly interfaces and I'm currently diving deep into backend logic and database management.
+Welcome to my digital space! I am a creative soul currently diving deep into the world of **Web Application Development (DAW)**. For me, coding isn't just about syntax; it's about building dreams, solving puzzles, and creating experiences that make people's lives easier and more beautiful. 🌈
+
+### 🌟 What I'm Up To
+- 🎓 **Currently Studying:** Mastering the art of Full-Stack development at DAW.
+- 🎨 **Front-End Lover:** I have a huge crush on clean UI/UX and responsive designs.
+- ⚙️ **Back-End Explorer:** Navigating the magic of Java and the logic of Databases.
+- 🌱 **Always Growing:** Learning something new every single day because curiosity is my superpower! 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
