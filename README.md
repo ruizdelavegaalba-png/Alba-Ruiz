@@ -1,6 +1,9 @@
-# Alba-Ruiz <h1 align="center">Hi 👋, I'm Alba Ruiz de La Vega</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Alba! 👋
 
+### 👩‍💻 Full-Stack Web Development Student (DAW)
+Based in **Seville, Spain** 💃
+
+I am a passionate developer currently pursuing my degree in **Web Application Development (DAW)**. I love building clean, user-friendly interfaces and I'm currently diving deep into backend logic and database management.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
